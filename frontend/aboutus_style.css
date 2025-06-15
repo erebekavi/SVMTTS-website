@@ -61,7 +61,7 @@ a{
     flex-direction: column;
     align-items: flex-start;
     justify-content: start;
-    gap: 50px;
+    gap: 20px;
     padding: 50px;
 }
 .slidebar a{
@@ -82,7 +82,7 @@ a{
 .logosidebar{
     display: none;
 }
-@media(max-width:919px) {
+@media(max-width:1182px) {
     .hideOnMobile{
         display: none;
     }
@@ -140,7 +140,6 @@ a{
         font-size: 13px;
     }
 }
-
 .text {
     text-align: left;
     padding-top: 50px;
@@ -195,7 +194,7 @@ a{
         padding-right: 20px;
 }
 }
-@media (max-width:326px){
+@media (max-width:1000px){
     .text h2{
         padding-left: 20px;
     }
